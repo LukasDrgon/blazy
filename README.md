@@ -1,5 +1,6 @@
 #hey, be lazy
 [![Downloads](https://img.shields.io/npm/dm/blazy.svg?style=flat)](https://www.npmjs.com/package/blazy)
+[![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/blazy/badge?style=rounded)](https://www.jsdelivr.com/package/npm/blazy)
 [![Latest Stable Version](https://img.shields.io/npm/v/blazy.svg?style=flat)](https://www.npmjs.com/package/blazy)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/dinbror/blazy/blob/master/LICENSE)
 
